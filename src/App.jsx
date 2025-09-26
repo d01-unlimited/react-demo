@@ -51,6 +51,7 @@ function Footer() {
   )
 }
 
+// App Layout / Root Component
 function App() {
 
   return (
